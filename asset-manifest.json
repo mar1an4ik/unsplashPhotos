@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/unsplashPhotos/static/css/main.22addfd8.chunk.css",
+    "main.css": "/unsplashPhotos/static/css/main.9c97253b.chunk.css",
     "main.js": "/unsplashPhotos/static/js/main.c325a382.chunk.js",
     "main.js.map": "/unsplashPhotos/static/js/main.c325a382.chunk.js.map",
     "runtime-main.js": "/unsplashPhotos/static/js/runtime-main.3449883d.js",
@@ -10,14 +10,14 @@
     "static/js/3.df170223.chunk.js": "/unsplashPhotos/static/js/3.df170223.chunk.js",
     "static/js/3.df170223.chunk.js.map": "/unsplashPhotos/static/js/3.df170223.chunk.js.map",
     "index.html": "/unsplashPhotos/index.html",
-    "static/css/main.22addfd8.chunk.css.map": "/unsplashPhotos/static/css/main.22addfd8.chunk.css.map",
+    "static/css/main.9c97253b.chunk.css.map": "/unsplashPhotos/static/css/main.9c97253b.chunk.css.map",
     "static/js/2.660323ad.chunk.js.LICENSE.txt": "/unsplashPhotos/static/js/2.660323ad.chunk.js.LICENSE.txt",
     "static/media/backButton.13be0bcf.png": "/unsplashPhotos/static/media/backButton.13be0bcf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3449883d.js",
     "static/js/2.660323ad.chunk.js",
-    "static/css/main.22addfd8.chunk.css",
+    "static/css/main.9c97253b.chunk.css",
     "static/js/main.c325a382.chunk.js"
   ]
 }
