@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unsplashPhotos/static/css/main.2c4941e6.chunk.css",
+    "main.js": "/unsplashPhotos/static/js/main.dc7974ff.chunk.js",
+    "main.js.map": "/unsplashPhotos/static/js/main.dc7974ff.chunk.js.map",
+    "runtime-main.js": "/unsplashPhotos/static/js/runtime-main.3449883d.js",
+    "runtime-main.js.map": "/unsplashPhotos/static/js/runtime-main.3449883d.js.map",
+    "static/js/2.660323ad.chunk.js": "/unsplashPhotos/static/js/2.660323ad.chunk.js",
+    "static/js/2.660323ad.chunk.js.map": "/unsplashPhotos/static/js/2.660323ad.chunk.js.map",
+    "static/js/3.df170223.chunk.js": "/unsplashPhotos/static/js/3.df170223.chunk.js",
+    "static/js/3.df170223.chunk.js.map": "/unsplashPhotos/static/js/3.df170223.chunk.js.map",
+    "index.html": "/unsplashPhotos/index.html",
+    "static/css/main.2c4941e6.chunk.css.map": "/unsplashPhotos/static/css/main.2c4941e6.chunk.css.map",
+    "static/js/2.660323ad.chunk.js.LICENSE.txt": "/unsplashPhotos/static/js/2.660323ad.chunk.js.LICENSE.txt",
+    "static/media/backButton.13be0bcf.png": "/unsplashPhotos/static/media/backButton.13be0bcf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3449883d.js",
+    "static/js/2.660323ad.chunk.js",
+    "static/css/main.2c4941e6.chunk.css",
+    "static/js/main.dc7974ff.chunk.js"
+  ]
+}
